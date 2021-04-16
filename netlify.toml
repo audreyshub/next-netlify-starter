@@ -1,7 +1,7 @@
 [build]
   command = "npm run build"
   publish = "out"
-[[redirests]]
+[[redirects]]
   from = "https://upbeat-lamport-3c8d2f.netlify.app/"
   to = "https://www.littlebannerlady.com/"
   status = 301

@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
 
-        <Header title="Welcome to littlebannerlady.com" />
+        <Header title="Welcome to my amazing app!" />
     
         <p className="description">
           Get started by editing <code>pages/index.js</code>

@@ -1,4 +1,4 @@
-function Post({ date, image, title }) {
+function Post({ date, content, title }) {
   let { file, description } = image
 
   return (
